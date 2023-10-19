@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<books>
+<book1>
+<title>Computer Networks</title>
+<author>Tanenbaum</author>
+<isbn>20062</isbn>
+<edition>4th edition</edition>
+<publisher>Pearson</publisher>
+<price>350</price>
+</book1>
+<book2>
+<title>Operating System</title>
+<author>Williamson</author>
+<isbn>31245</isbn>
+<edition>5th edition</edition>
+<publisher>George</publisher>
+<price>400</price>
+</book2>
+</books>
